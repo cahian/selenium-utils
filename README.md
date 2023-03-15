@@ -1,2 +1,2 @@
-# seleniumutils
+# selenium_utils
 Selenium utilities
